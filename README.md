@@ -4,8 +4,6 @@
 
 ![home](https://user-images.githubusercontent.com/5856379/125670286-60d09320-158a-4b1b-b7cc-45e376a9f786.jpg)
 
-<br>
-
 ## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -40,3 +38,9 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+
+## ➕ Funcionalidades adicionais
+
+- Logout
+- Listagem de salas
+- Tema dark
