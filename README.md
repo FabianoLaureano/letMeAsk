@@ -2,9 +2,7 @@
   <img alt="Letmeask" src="src/assets/images/logo.svg" width="160px">
 </p>
 
-<h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
-</h1>
+![home](https://user-images.githubusercontent.com/5856379/125670286-60d09320-158a-4b1b-b7cc-45e376a9f786.jpg)
 
 <br>
 
