@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src="src/assets/images" width="160px">
+  <img alt="Letmeask" src="src/assets/images/logo.svg" width="160px">
 </p>
 
 <h1 align="center">
